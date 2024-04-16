@@ -1,0 +1,94 @@
+{
+  "servers": [
+    {
+      "id": "Rf3g7hj9",
+      "name": "Acme Corp's instance #14",
+      "description": "This server hosts Acme Corp's primary application and database.",
+      "online": true
+    },
+    {
+      "id": "K9s2P4zL",
+      "name": "Globex Corporation's instance #6",
+      "description": "Globex Corporation's server for internal communication and file storage.",
+      "online": false
+    },
+    {
+      "id": "T8dF2gH5",
+      "name": "Stark Industries' instance #12",
+      "description": "Stark Industries' server used for research and development purposes.",
+      "online": true
+    },
+    {
+      "id": "N6jU9sE4",
+      "name": "Umbrella Corporation's instance #10",
+      "description": "Umbrella Corporation's secure server for biohazard containment data.",
+      "online": true
+    },
+    {
+      "id": "B2nG6hJ7",
+      "name": "Wayne Enterprises' instance #5",
+      "description": "Wayne Enterprises' server dedicated to crime-fighting technology development.",
+      "online": false
+    },
+    {
+      "id": "M3rT5yH8",
+      "name": "LexCorp's instance #11",
+      "description": "LexCorp's server housing Lex Luthor's private research and projects.",
+      "online": true
+    },
+    {
+      "id": "P1oG5dF9",
+      "name": "InGen's instance #3",
+      "description": "InGen's server for genetic research and dinosaur cloning data.",
+      "online": true
+    },
+    {
+      "id": "Q7rF4tV2",
+      "name": "Tyrell Corporation's instance #8",
+      "description": "Tyrell Corporation's server utilized for Nexus series replicant development.",
+      "online": false
+    },
+    {
+      "id": "I6uE3oP1",
+      "name": "Weyland-Yutani Corporation's instance #9",
+      "description": "Weyland-Yutani Corporation's server for extraterrestrial research and colonization efforts.",
+      "online": true
+    },
+    {
+      "id": "A5tH8jK2",
+      "name": "Oscorp's instance #15",
+      "description": "Oscorp's server housing research data on genetically modified organisms.",
+      "online": true
+    },
+    {
+      "id": "H4bN7cV3",
+      "name": "Monarch Sciences' instance #7",
+      "description": "Monarch Sciences' server tracking and studying giant monsters around the world.",
+      "online": false
+    },
+    {
+      "id": "D9fG2iU4",
+      "name": "Aperture Science's instance #2",
+      "description": "Aperture Science's server conducting experiments in the field of portal technology.",
+      "online": true
+    },
+    {
+      "id": "S2yR9fG5",
+      "name": "Wakanda Technologies' instance #13",
+      "description": "Wakanda Technologies' server empowering Wakanda's technological advancements.",
+      "online": false
+    },
+    {
+      "id": "J8lM6qW6",
+      "name": "Los Pollos Hermanos' instance #4",
+      "description": "Los Pollos Hermanos' server managing operations for a fast-food empire.",
+      "online": true
+    },
+    {
+      "id": "V3mQ6xY7",
+      "name": "Massive Dynamic's instance #1",
+      "description": "Massive Dynamic's server for cutting-edge scientific research and innovation.",
+      "online": true
+    }
+  ]
+}

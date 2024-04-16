@@ -1,0 +1,12 @@
+<div
+  class=""
+  *ngIf="isLoading"
+  ngClass="w-full h-full flex justify-center items-center"
+>
+  <i class="fa-solid fa-spinner animate-spin text-6xl"></i>
+</div>
+<div class="grid grid-cols-1 lg:grid-cols-3 grid-flow-row gap-4">
+  <div *ngFor="let server of servers">
+    <app-server [server]="server"></app-server>
+  </div>
+</div>
